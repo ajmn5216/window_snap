@@ -1,0 +1,4 @@
+.build/
+WindowSnap.app/
+*.xcodeproj/
+.DS_Store
