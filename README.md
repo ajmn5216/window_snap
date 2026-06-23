@@ -205,3 +205,14 @@ e.g. **ScreenCaptureKit** to grab the region plus a **virtual camera / virtual
 display** to expose it to the meeting app. That is a substantial, separate effort
 (camera extension entitlements, a system extension, etc.) and is explicitly scoped
 as a **future phase**, not part of this app.
+
+---
+
+## License
+
+Released under the [MIT License](LICENSE) — free to use, modify, and
+redistribute, with no warranty.
+
+This project borrows design *patterns* (not code) from
+[Rectangle](https://github.com/rxhanson/Rectangle), which is also MIT licensed.
+See the [Reference](#reference) note above.
